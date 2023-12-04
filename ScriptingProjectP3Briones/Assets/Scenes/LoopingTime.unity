@@ -410,7 +410,7 @@ GameObject:
   - component: {fileID: 1449015585}
   - component: {fileID: 1449015584}
   m_Layer: 0
-  m_Name: AwakeAndStart
+  m_Name: Awakening
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
