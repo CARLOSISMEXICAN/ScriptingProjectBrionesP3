@@ -13,9 +13,9 @@ public class DestroyComponent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKey(KeyCode.Space))
+        if(Input.GetKey(KeyCode.RightShift))
         {
-            Destroy(GetComponent<MeshRenderer>());
+            Destroy(GetComponent<TransformFunctions>());
         }
     }
 }
